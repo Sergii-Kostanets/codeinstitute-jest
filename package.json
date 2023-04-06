@@ -1,0 +1,19 @@
+{
+  "name": "codeinstitute-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergii-Kostanets/codeinstitute-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergii-Kostanets/codeinstitute-jest/issues"
+  },
+  "homepage": "https://github.com/Sergii-Kostanets/codeinstitute-jest#readme"
+}
