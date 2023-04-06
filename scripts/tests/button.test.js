@@ -18,4 +18,8 @@ describe("DOM tests", () => {
         buttonClick();
         expect(document.getElementById("par").innerHTML).toEqual("You Clicked");
     });
+    test("h1 should exist", () => {
+        expect(document.getElementsByTagName("h1").length).toBe(1);
+    });
 });
+ 
